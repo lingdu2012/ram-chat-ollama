@@ -14,7 +14,7 @@ It is an open source and minimal chat UI for Ollama. UI Uses Ollama stream API. 
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/apoStyLEE/nuxt-ollama-chat
+git clone https://github.com/lingdu2012/ramOllama.git
 ```
 
 ### 2. Install Dependencies
